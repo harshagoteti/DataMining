@@ -1,0 +1,11 @@
+Answer the following questions (5 pts each):
+
+What associations have you discovered about the movie ratings?
+What is the most prevalent general rule for movie ratings in your dataset? (Remember the children in 2nd class on the Titanic!)  
+Remember to show your code and its output!
+
+As an extra exercise to Chapter 2, the Guide To Data Minining book website has a file containing movie ratings for 25 movies.  Based on the recommender.py code discussed last week and this week:
+
+If you choose to use Python, create a function that loads the data into your classifier.  If you choose to use R, set up your script to load the data into your data frame.
+If you choose to use Python, add to the recommend method to recommend movies for a specific person.  If you choose to use R, follow the apriori instructions earlier in this slide deck and any of the distance formulas discussed in earlier weeks.
+Answer the two questions you are given in this assignment and remember to show your code and its output.

@@ -1,0 +1,7 @@
+Using R or Python, preprocess your dataset to run with Apriori and then run the Apriori algorithm.  Change the support and confidence measures until you get optimal results.  Then answer the following questions on one single-spaced page:
+
+How did you adjust support and confidence to achieve optimal results? 
+Show your work.  What do the results tell you about the data?
+Remember to include your R or Python solution path and output.
+
+By submitting this paper, you agree: (1) that you are submitting your paper to be used and stored as part of the SafeAssign™ services in accordance with the Blackboard Privacy Policy; (2) that your institution may use your paper in accordance with your institution's policies; and (3) that your use of SafeAssign will be without recourse against Blackboard Inc. and its affiliates.
